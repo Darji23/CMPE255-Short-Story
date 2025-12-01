@@ -1,8 +1,8 @@
-**# Agent Laboratory: Autonomous LLM Agents for Scientific Discovery**
+# Agent Laboratory: Autonomous LLM Agents for Scientific Discovery
 
-**## Name: Abhishek Darji**
+## Name: Abhishek Darji
 
-**## ID: 019113471**
+## ID: 019113471
 
 ## Overview
 
