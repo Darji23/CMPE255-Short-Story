@@ -15,7 +15,7 @@ This repository provides an overview and resources related to the research paper
 | Original Article (arXiv) | https://arxiv.org/pdf/2501.04227 |
 | Review Article (Medium) | https://medium.com/@abhishek.darji/automating-discovery-a-review-of-agent-laboratory-using-llm-agents-as-research-assistants-88aabd400d78 |
 | Presentation Deck | https://docs.google.com/presentation/d/1x05eMc8ZiL1IqxzB52Utc5qJFgZRRAQvp_kseiVleEA/edit?usp=sharing |
-| Explainer Video | [Link to Video]([Insert Video Link Here]) |
+| Explainer Video | (https://drive.google.com/file/d/1LPrJ5RPGZpx8gRruAG4DH6lCXjePZRL3/view?usp=sharing) |
 
 ## Paper Summary
 
